@@ -689,5 +689,22 @@ con flex 1, se divide el espacio en partes iguales */
     .hero_text h2{
         font-size: 4rem;
     }
-}
 
+    .header_right .menu {
+        font-weight: 500;        
+        font-size: 1.1rem;
+    }
+
+    .sale {
+        position: absolute;
+        bottom: 2rem;
+        left: 1rem;
+        padding: 0;
+    }
+
+    .btn-wsp .bi-whatsapp {       
+        bottom: 0.5rem;
+        right: 0.5rem;  
+    }
+
+}
