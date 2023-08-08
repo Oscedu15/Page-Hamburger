@@ -685,3 +685,9 @@ con flex 1, se divide el espacio en partes iguales */
     }
 }
 
+@media screen and (max-width:410px){
+    .hero_text h2{
+        font-size: 4rem;
+    }
+}
+
